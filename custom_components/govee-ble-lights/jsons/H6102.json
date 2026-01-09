@@ -1,8 +1,22 @@
 {
-    "message": "success",
-    "status": 200,
-    "data": {
-        "categories": [],
-        "supportSpeed": 0
-    }
+  "data": {
+    "categories": [
+      {
+        "categoryName": "Default",
+        "scenes": [
+          {
+            "sceneName": "Basic",
+            "lightEffects": [
+              {
+                "scenceName": "On/Off/Brightness",
+                "specialEffect": [],
+                "cmdVersion": 0,
+                "sceneType": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }
